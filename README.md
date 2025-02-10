@@ -63,7 +63,7 @@ Thank you for following along. I hope you learned something new and found this s
 
 For continued learning, check out some of the **resources below**. Also, don't forget to complete your [Session Survey](imgages/workshop_survey.png) —your feedback is incredibly important!
 
-If I did great, we'd love to know. And if you think I sucked, that’s fine too—let me know how I can improve!  
+If I did great, I'd love to know. And if you think I sucked, well please don't tell anyone 🙂 Seriously, your feedback is appreciated. 
 
 **Have a fantastic rest of your Cisco Live experience!** 🚀  
 
