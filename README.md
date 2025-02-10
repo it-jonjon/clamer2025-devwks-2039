@@ -67,7 +67,7 @@ If I did great, we'd love to know. And if you think I sucked, that’s fine too�
 
 **Have a fantastic rest of your Cisco Live experience!** 🚀  
 
-## [Continued Learning](images/continue_learning.png)
+## [Continued Learning](imgages/continue_learning.png)
 
 - [Cisco Duo API Learning Lab](https://developer.cisco.com/duo/)  
 - [Duo API Playground](https://developer.cisco.com/codeexchange/github/repo/it-jonjon/Duo-API-Playground)
