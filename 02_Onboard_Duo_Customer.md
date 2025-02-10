@@ -16,7 +16,6 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
 
 1. Set the Duo edition in the **Params** tab:  
    - Choose from **ENTERPRISE**, **PLATFORM**, or **BEYOND**.
-   - Refer to the **Description** field for correct formatting.  
 2. Save the changes. Click the **Send** button to execute the API call.  
 
 ![Alt Text](imgages/modify_edition.png)
