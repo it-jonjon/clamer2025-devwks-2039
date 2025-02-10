@@ -21,7 +21,7 @@ Navigate to the **Duo Admin API** collection >> **Phones** >> **Create Phone**
    - If you are in **seat 16**, input the following phone number `7345551216`
 2. Save the changes. Click the **Send** button to execute the API call.  
 
-![Alt Text](images/create_phone.png)
+![Alt Text](imgages/create_phone.png)
 
 ## **3. Attach Phone to User**  
 **Navigate to the** **Duo Admin API** collection >> **Users** >> **Associate Phone with User**  
@@ -29,6 +29,6 @@ Navigate to the **Duo Admin API** collection >> **Phones** >> **Create Phone**
 1. The `{{user_id}}` and `{{phone_id}}` variables will be automatically populated from the previous API calls.  
 2. Save the changes. Click the **Send** button to execute the API call.  
 
-![Alt Text](images/attach_phone_to_user.png)
+![Alt Text](imgages/attach_phone_to_user.png)
 
 [Contiue to next task](02_Onboard_Duo_Customer.md)
