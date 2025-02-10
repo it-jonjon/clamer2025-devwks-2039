@@ -16,4 +16,29 @@ In this task, you'll enforce verified push authentication with an 8-digit verifi
 
 ![Alt Text](imgages/policy_report.png)
 
+<details>
+  <summary>Click to expand policy JSON if needed or continue to next step</summary>
+  
+
+  
+  {
+    "is_global_policy": true,
+    "sections": {
+      "authentication_methods": {
+        "allowed_auth_list": [
+          "duo-passcode",
+          "duo-push",
+          "hardware-token",
+          "webauthn-platform",
+          "webauthn-roaming"
+        ],
+        "blocked_auth_list": [],
+        "require_verified_push": true,
+        "verified_push_digits": 6
+      }
+    }
+  }
+
+</details>
+
 [Continue to Next Task](06_Pull_Cost_Report.md)  
