@@ -11,7 +11,7 @@ A new employee has joined the team, and they need access to Duo-protected applic
    - If you are in **seat 16**, name the user `whoami16`.  
 2. Save the changes. Click the **Send** button to execute the API call.  
 
-![Alt Text](images/create_user.png)
+![Alt Text](imgages/create_user.png)
 
 ## **2. Create Phone**  
 Navigate to the **Duo Admin API** collection >> **Phones** >> **Create Phone**  
