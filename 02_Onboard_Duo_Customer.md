@@ -10,7 +10,7 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
    - If you are in **seat 2**, name the account `"DevNet.WS1.Seat2"`.  
 2. Save the changes.  
 
-![Alt Text](images/account_name.png)
+![Alt Text](imgages/account_name.png)
 
 **Navigate to the** **Duo Accounts API w/ Admin API** folder >> **Duo Onboarding** >> **Account & Settings Management** >> **Modify Edition**  
 
@@ -19,7 +19,7 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
    - Refer to the **Description** field for correct formatting.  
 2. Save the changes. Click the **Send** button to execute the API call.  
 
-![Alt Text](images/modify_edition.png)
+![Alt Text](imgages/modify_edition.png)
 
 ## **2. Configure User and Group Details**  
 Navigate to the **Duo Admin API** folder >> **User & Group Management** >> **Create Duo Group**  
@@ -29,7 +29,7 @@ Navigate to the **Duo Admin API** folder >> **User & Group Management** >> **Cre
    - Note: Avoid special characters. 
 2. Save the changes. Click the **Send** button to execute the API call.  
 
-![Alt Text](images/create_duo_group.png)
+![Alt Text](imgages/create_duo_group.png)
 
 **Navigate to the** **DEVWKS-2039** collection >> **Variables**  
 
@@ -51,7 +51,7 @@ Navigate to the **Duo Admin API** folder >> **User & Group Management** >> **Cre
     
 2. Save the changes.  
 
-![Alt Text](images/users_csv.png)
+![Alt Text](imgages/users_csv.png)
 
 ## **3. Configure Application Details**  
 Navigate to the **Duo Admin API** folder >> **Application Management**  
@@ -72,7 +72,7 @@ Navigate to the **Duo Admin API** folder >> **Application Management**
 
 2. Save the changes. Click the **Send** button to execute each API call.  
 
-![Alt Text](images/application_name.png)
+![Alt Text](imgages/application_name.png)
 
 ## **4. Configure Policy Details**  
 Navigate to the **Duo Admin API** folder >> **Policy Management**  
@@ -89,7 +89,7 @@ Navigate to the **Duo Admin API** folder >> **Policy Management**
 
 2. Save the changes. Click the **Send** button to execute each API call.
 
-![Alt Text](images/policy_configuration.png)
+![Alt Text](imgages/policy_configuration.png)
 
 
 <details>
@@ -123,9 +123,9 @@ Navigate to the **Duo Admin API** folder >> **Duo Onboarding**
 1. Hover over the **Duo Onboarding** folder. Click the three dots (**...**) to expand the menu, then select **Run Folder**.  
 2. In the **Collection Runner**, click the **Run DEVWKS-2039** button.  
 
-![Alt Text](images/deploy_customer.png)
+![Alt Text](imgages/deploy_customer.png)
 
-![Alt Text](images/collection_runner.png)
+![Alt Text](imgages/collection_runner.png)
 
 ## **6. Verify the Deployment (Optional)**  
 Navigate to the **Duo Admin API** folder >> **Account Management** >> **Retrieve Accounts**  
@@ -133,7 +133,7 @@ Navigate to the **Duo Admin API** folder >> **Account Management** >> **Retrieve
 1. Click the **Send** button to execute the request.  
 2. Verify that the Duo account you created appears in the list of child accounts.  
 
-![Alt Text](images/retrieve_accounts.png)
+![Alt Text](imgages/retrieve_accounts.png)
 
 
 [Continue to Next Task](03_Set_Bypass_Code.md)  
