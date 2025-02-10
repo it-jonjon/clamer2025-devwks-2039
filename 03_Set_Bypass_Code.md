@@ -8,7 +8,7 @@ Navigate to the **Duo Admin API** folder >> **Users** >> **Create Bypass Codes f
 1. Go to the **Params** tab and configure the following parameters:  
    - **count**: `1` (Generate a single bypass code)  
    - **valid_secs**: `10800` (Set expiration to 3 hours)  
-2. Save the changes. Click the **Send** button to execute the API call.  
+2. Save the changes.
 
 ![Alt Text](imgages/create_bypass_code.png)
 
