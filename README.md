@@ -61,7 +61,7 @@ If you've made it this far, congratulations—you've successfully completed this
 
 Thank you for following along. I hope you learned something new and found this session valuable.  
 
-For continued learning, check out some of the **resources below**. Also, don't forget to complete your [Session Survey](images/workshop_survey.png) —your feedback is incredibly important!
+For continued learning, check out some of the **resources below**. Also, don't forget to complete your [Session Survey](imgages/workshop_survey.png) —your feedback is incredibly important!
 
 If I did great, we'd love to know. And if you think I sucked, that’s fine too—let me know how I can improve!  
 
