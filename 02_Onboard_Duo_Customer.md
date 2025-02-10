@@ -16,7 +16,7 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
 
 1. Set the Duo edition in the **Params** tab:  
    - Choose from **ENTERPRISE**, **PLATFORM**, or **BEYOND**.
-2. Save the changes. Click the **Send** button to execute the API call.  
+2. Save the changes. 
 
 ![Alt Text](imgages/modify_edition.png)
 
@@ -26,7 +26,7 @@ Navigate to the **Duo Admin API** folder >> **User & Group Management** >> **Cre
 1. Go to the **Params** tab and enter a name for the Duo group.  
    - Example: `Duo Users`.  
    - Note: Avoid special characters. 
-2. Save the changes. Click the **Send** button to execute the API call.  
+2. Save the changes. 
 
 ![Alt Text](imgages/create_duo_group.png)
 
@@ -69,7 +69,7 @@ Navigate to the **Duo Admin API** folder >> **Application Management**
   - **Name**: `Cisco VPN`  
   - **Type**: `ciscoradius`  
 
-2. Save the changes. Click the **Send** button to execute each API call.  
+2. Save the changes. 
 
 ![Alt Text](imgages/application_name.png)
 
@@ -86,7 +86,7 @@ Navigate to the **Duo Admin API** folder >> **Policy Management**
   - **Policy Name**: `Enforce MFA`  
   - **User Authentication Behavior**: `enforce`  
 
-2. Save the changes. Click the **Send** button to execute each API call.
+2. Save the changes.
 
 ![Alt Text](imgages/policy_configuration.png)
 
