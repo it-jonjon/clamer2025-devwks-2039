@@ -8,7 +8,7 @@ As an IT administrator, you may need to audit and review users who have bypass s
 1. Click the **Send** button to execute the API call.  
 2. Review the response to see which users have bypass status enabled.  
 
-![Alt Text](images/bypass_users_logs.png)
+![Alt Text](imgages/bypass_users_logs.png)
 
 
 [Continue to Next Task](05_Enforce_Security_Policies.md)  
