@@ -10,7 +10,7 @@ In this task, you'll enforce verified push authentication with an 8-digit verifi
 
 1. Go to the **Body** tab and configure the following policy settings:  
    - **require_verified_push**: `true`  
-   - **verified_push_digits**: `8`  
+   - **verified_push_digits**: `6`  
 2. Save the changes.  
 3. Click the **Send** button to execute the API call and apply the new policy settings across all child accounts.  
 
