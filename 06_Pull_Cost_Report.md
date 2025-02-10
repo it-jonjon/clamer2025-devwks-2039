@@ -9,6 +9,6 @@ Our organization's accounting department has requested a real-time usage report 
 1. Click the **Send** button to execute the API call.  
 2. Review the response to see a breakdown of Duo editions and user counts across accounts.
 
-![Alt Text](images/cost_report.png)
+![Alt Text](imgages/cost_report.png)
 
 [Complete Lab](https://github.com/it-jonjon/clemea2025-devwks-2039/blob/main/README.md#thank-you-for-participating)  
