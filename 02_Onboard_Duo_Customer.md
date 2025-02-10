@@ -97,23 +97,14 @@ Navigate to the **Duo Admin API** folder >> **Policy Management**
   
 
   
-  {
-    "is_global_policy": true,
+{
+    "policy_name": "Bypass MFA",
     "sections": {
-      "authentication_methods": {
-        "allowed_auth_list": [
-          "duo-passcode",
-          "duo-push",
-          "hardware-token",
-          "webauthn-platform",
-          "webauthn-roaming"
-        ],
-        "blocked_auth_list": [],
-        "require_verified_push": true,
-        "verified_push_digits": 6
-      }
+        "authentication_policy": {
+            "user_auth_behavior": "bypass" 
+        }
     }
-  }
+}
 
 </details>
 
