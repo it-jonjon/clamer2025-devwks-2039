@@ -11,7 +11,7 @@ Upon completion of this lab, you will:
 ---
 
 
-[![View Presentation](images/cisco_live_emea.png)](presentation/cisco_live_emea.pdf)
+[![View Presentation](imgages/cisco_live_emea.png)](presentation/cisco_live_emea.pdf)
 
 
 ---
