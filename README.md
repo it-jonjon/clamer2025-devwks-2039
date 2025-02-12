@@ -49,7 +49,7 @@ As an IT administrator, you may need to audit and review users who have bypass s
 
 ### **[Task 5: Enforce Security Policies](05_Enforce_Security_Policies.md)**  
 
-A key aspect of Duo's security lies in its policy enforcement. As an IT administrator, there are times when you must apply specific policy settings across all child accounts to ensure uniformity and maintain a strong security posture. Following a recent security advisory, we have been instructed to disable SMS and phone call authentication as authentication factors across all child accounts and enforce Duo Verified Push for enhanced security. In this task, you'll enforce verified push authentication with an 8-digit verification code across all Duo client accounts to ensure consistent security.
+A key aspect of Duo's security lies in its policy enforcement. As an IT administrator, there are times when you must apply specific policy settings across all child accounts to ensure uniformity and maintain a strong security posture. Following a recent security advisory, we have been instructed to disable SMS and phone call authentication as authentication factors across all child accounts and enforce Duo Verified Push for enhanced security. In this task, you'll enforce verified push authentication with an 6-digit verification code across all Duo client accounts to ensure consistent security.
 
 ### **[Task 6: Generate a Cost Report](06_Pull_Cost_Report.md)**  
  
