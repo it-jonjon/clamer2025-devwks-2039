@@ -11,7 +11,9 @@ Upon completion of this lab, you will:
 ---
 
 
-[![View Presentation](imgages/cisco_live_emea.png)](presentation/cisco_live_emea.pdf)
+<a href="presentation/cisco_live_emea.pdf" target="_blank">
+    <img src="imgages/cisco_live_emea.png" alt="View Presentation">
+</a>
 
 
 ---
