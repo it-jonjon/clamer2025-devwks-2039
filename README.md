@@ -5,7 +5,7 @@
 
 Upon completion of this lab, you will:  
 - Gain clarity on Duo's core APIs, including the Accounts API and Admin API  
-- Understand how Postman facilitates API interactions  
+- Understand Postman and how it can be leverag how Postman can help simplify API interactions  
 - Learn to optimize Duo operations and scale Duo deployments using the user-friendly Postman platform
 
 ---
