@@ -14,6 +14,7 @@ In this task, you'll enforce verified push authentication with an 8-digit verifi
      
   Note: Be sure to copy the trailing comma as the body must be properly formatted json.
 2. Save the changes.  
+
 3. Click the **Send** button to execute the API call and apply the new policy settings across all child accounts.  
 
 ![Alt Text](imgages/policy_report.png)
