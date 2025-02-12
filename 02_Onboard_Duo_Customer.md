@@ -24,7 +24,7 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
 Navigate to the **Duo Admin API** folder >> **User & Group Management** >> **Create Duo Group**  
 
 1. Go to the **Params** tab and enter a name for the Duo group.  
-   - Example: `Duo Users`.  
+   - Example: `Duo Users`
    - Note: Avoid special characters. 
 2. Save the changes. 
 
