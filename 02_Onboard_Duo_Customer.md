@@ -15,7 +15,7 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
 **Navigate to the** **Duo Accounts API w/ Admin API** folder >> **Duo Onboarding** >> **Account & Settings Management** >> **Modify Edition**  
 
 1. Set the Duo edition in the **Params** tab:  
-   - Choose from **ENTERPRISE**, **PLATFORM**, or **BEYOND**.
+   - Choose from `ENTERPRISE`, `PLATFORM`, `BEYOND`
 2. Save the changes. 
 
 ![Alt Text](imgages/modify_edition.png)
