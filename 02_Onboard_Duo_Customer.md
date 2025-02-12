@@ -91,22 +91,6 @@ Navigate to the **Duo Admin API** folder >> **Policy Management**
 ![Alt Text](imgages/policy_configuration.png)
 
 
-<details>
-  <summary>Click to expand policy JSON if needed or continue to next step</summary>
-  
-
-  
-{
-    "policy_name": "Bypass MFA",
-    "sections": {
-        "authentication_policy": {
-            "user_auth_behavior": "bypass" 
-        }
-    }
-}
-
-</details>
-
 ## **5. Deploy the New Duo Customer**  
 Navigate to the **Duo Admin API** folder >> **Duo Onboarding**  
 
