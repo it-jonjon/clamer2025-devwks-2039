@@ -7,7 +7,7 @@ A new non-profit organization urgently needs to deploy Duo to secure their enter
 
 1. Define the account name:  
    - In the **Current value** column of the `client_account_name` collection variable, enter the account name.  
-   - If you are in **seat 2**, name the account `"DevNet.WS1.Seat2"`.  
+   - If you are in **seat 2**, name the account `DevNet.WS1.Seat2`
 2. Save the changes.  
 
 ![Alt Text](imgages/account_name.png)
