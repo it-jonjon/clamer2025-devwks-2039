@@ -9,8 +9,9 @@ In this task, you'll enforce verified push authentication with an 8-digit verifi
 **Navigate to the** **Duo Admin API** collection >> **Policy Management** >> **Update Global**  
 
 1. Go to the **Body** tab and configure the following policy settings:  
-   - **require_verified_push**: `true`  
-   - **verified_push_digits**: `6`  
+   - **require_verified_push**: `true,`  
+   - **verified_push_digits**: `6`
+  Note: Be sure to copy the trailing comma as the body must be properly formatted json.
 2. Save the changes.  
 3. Click the **Send** button to execute the API call and apply the new policy settings across all child accounts.  
 
