@@ -1,4 +1,4 @@
-# Cisco Live EMEA 2025  
+# Cisco Live AMER 2025  
 ## DEVWKS-2039 - Automating Duo Operations for MSPs: Simplify, Streamline, & Scale Duo Deployments & Operations through the power of Duo APIs  
 
 ### Learning Objectives  
