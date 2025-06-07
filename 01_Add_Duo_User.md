@@ -7,8 +7,8 @@ A new employee has joined the team, and they need access to Duo-protected applic
 **Navigate to the** **Duo Admin API** collection >> **Users** >> **Create User**  
 
 1. Go to the **Params** tab and provide a username for the user.  
-   - If you are in **seat 1**, name the user `new_user1`
-   - If you are in **seat 16**, name the user `new_user16`
+   - If you are in **seat 1**, name the user `clus_user1`
+   - If you are in **seat 16**, name the user `clus_user16`
 2. Save the changes. Click the **Send** button to execute the API call.  
 
 ![Alt Text](imgages/create_user.png)
